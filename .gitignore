@@ -150,35 +150,3 @@ lerna-debug.log*
 .eslintcache
 .stylelintcache
 *.tsbuildinfo
-
-# ===========================
-# React / Frontend
-# ===========================
-build/
-dist/
-.storybook-out/
-.next/
-out/
-.parcel-cache/
-.vercel/
-.netlify/
-.cache/
-.turbo/
-*.tsbuildinfo
-
-# ===========================
-# Database
-# ===========================
-*.db
-*.sqlite
-*.sqlite3
-*.db-journal
-*.sqlite-journal
-
-# ===========================
-# MLflow / Machine Learning
-# ===========================
-mlruns/
-mlflow.db
-*.pkl
-*.joblib
