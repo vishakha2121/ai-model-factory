@@ -218,30 +218,3 @@ docker-compose.override.yml
 .code-workspace
 .classpath
 .project
-.settings/
-*.iml
-.vs/
-.vscode-test/
-
-# ===========================
-# OS / System
-# ===========================
-.DS_Store
-Thumbs.db
-desktop.ini
-*.tmp
-*.temp
-*.swp
-*~
-
-# ===========================
-# Secrets / Credentials
-# ===========================
-*.pem
-*.key
-*.crt
-*.csr
-*.cert
-*.der
-*.p12
-*.pfx
