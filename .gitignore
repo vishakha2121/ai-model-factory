@@ -277,31 +277,3 @@ coverage/
 *.test-results/
 /test-results/
 playwright-report/
-test-results/
-
-# ===========================
-# Build outputs
-# ===========================
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-*.o
-*.obj
-*.out
-*.app
-*.dmg
-*.pkg
-*.deb
-*.rpm
-
-# ===========================
-# Package managers
-# ===========================
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-*.lock
-*.lockb
-Cargo.lock
