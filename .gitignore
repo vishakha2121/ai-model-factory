@@ -182,39 +182,3 @@ mlruns/
 mlflow.db
 *.pkl
 *.joblib
-*.h5
-*.hdf5
-*.pb
-*.safetensors
-*.onnx
-*.tflite
-*.pt
-*.pth
-*.ckpt
-*.saved_model
-*.trt
-*.engine
-models/
-artifacts/
-experiments/
-
-# ===========================
-# Docker
-# ===========================
-*.log
-docker-compose.override.yml
-.dockerignore
-*.dockerignore
-
-# ===========================
-# IDE / Editor
-# ===========================
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.workspace
-.code-workspace
-.classpath
-.project
